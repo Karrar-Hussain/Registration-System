@@ -1,0 +1,16 @@
+c:\users\unique\documents\visual studio 2015\Projects\Reg_Sys\Reg_Sys\bin\Debug\Reg_Sys.exe.config
+c:\users\unique\documents\visual studio 2015\Projects\Reg_Sys\Reg_Sys\bin\Debug\Reg_Sys.exe
+c:\users\unique\documents\visual studio 2015\Projects\Reg_Sys\Reg_Sys\bin\Debug\Reg_Sys.pdb
+c:\users\unique\documents\visual studio 2015\Projects\Reg_Sys\Reg_Sys\obj\Debug\Reg_Sys.csprojResolveAssemblyReference.cache
+c:\users\unique\documents\visual studio 2015\Projects\Reg_Sys\Reg_Sys\obj\Debug\Reg_Sys.Registration.resources
+c:\users\unique\documents\visual studio 2015\Projects\Reg_Sys\Reg_Sys\obj\Debug\Reg_Sys.Properties.Resources.resources
+c:\users\unique\documents\visual studio 2015\Projects\Reg_Sys\Reg_Sys\obj\Debug\Reg_Sys.csproj.GenerateResource.Cache
+c:\users\unique\documents\visual studio 2015\Projects\Reg_Sys\Reg_Sys\obj\Debug\Reg_Sys.exe
+c:\users\unique\documents\visual studio 2015\Projects\Reg_Sys\Reg_Sys\obj\Debug\Reg_Sys.pdb
+C:\Users\Unique\Documents\Visual Studio 2015\Projects\Reg_Sys\Reg_Sys\obj\Debug\Reg_Sys.Registration_F.resources
+C:\Users\Unique\Documents\Visual Studio 2015\Projects\Reg_Sys\Reg_Sys\obj\Debug\Reg_Sys.SearchControl.resources
+C:\Users\Unique\Documents\Visual Studio 2015\Projects\Reg_Sys\Reg_Sys\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Unique\Documents\Visual Studio 2015\Projects\Reg_Sys\Reg_Sys\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Unique\Documents\Visual Studio 2015\Projects\Reg_Sys\Reg_Sys\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Unique\Documents\Visual Studio 2015\Projects\Reg_Sys\Reg_Sys\bin\Debug\Microsoft.ReportViewer.WebForms.xml
+C:\Users\Unique\Documents\Visual Studio 2015\Projects\Reg_Sys\Reg_Sys\bin\Debug\Microsoft.ReportViewer.WinForms.xml
